@@ -1,11 +1,13 @@
-//Classe executável deve ter um método especial, chamado main
-
-
 public class MyClass1 {
-    //Corpo da classe
+    
     public static void main (String [] args){
-     
-        //Corpo do método main
+        System.out.print("Meu prmeiro código JAVA!");
+        //System é uma classe de sistema, com diversas operações
+
+        //.out significa "Saída"
+        //print é a saída de impressão.
+
+        //Isso é o mesmo que dizer: "Sistema, me de uma saída que será uma impressão"
 }
 
 } 
