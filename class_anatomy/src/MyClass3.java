@@ -5,7 +5,7 @@ tipo VarName = Condition
 Ex:
 */      String testetext = "Olá, eu sou uma var de string!";
         System.out.print(testetext);
-
+-
      } 
 }
 
