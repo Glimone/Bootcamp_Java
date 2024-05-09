@@ -1,4 +1,4 @@
-public class MyClass3 {
+public class Methods {
         
      //Isso é um método, o método principal   
      public static void main ( String [] args) {

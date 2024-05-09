@@ -1,6 +1,6 @@
 //Abaixo temos o mesmo código, entretanto um com identação, enquanto o outro sem. Ambos irão funcionar, entretanto algumas outras linguagens não aceitariam, como Python.
 
-public class MyClass4 {
+public class Identation {
     //Código sem identação:
 
     /*
