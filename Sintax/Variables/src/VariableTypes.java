@@ -1,7 +1,0 @@
-public class VariableTypes {
-    
-    public
-
-
-
-}
