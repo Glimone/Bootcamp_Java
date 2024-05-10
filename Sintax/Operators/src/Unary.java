@@ -11,10 +11,10 @@ public class Unary {
         */
 
         int number = 5;
-        System.out.println(- number); //The '-' did the 5 negative
+        System.out.println(- number);
 
         number = + number;
-        System.out.println(number); //New, we make the exacly, but with '+'.
+        System.out.println(number); 
 
     }
 
