@@ -27,6 +27,9 @@ public class VariableTypes {
         final String FINISH = " Essa string foi definida para nunca ser mudado, com 'final'."; 
         System.out.println(FINISH);
 
+        boolean trueorfalse = true;
+        System.out.println(trueorfalse);
+
 
 
     }
