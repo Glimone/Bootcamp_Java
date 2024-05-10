@@ -9,22 +9,22 @@ public class VariableTypes {
         //Variable Types: 
 
 
-        String texto = "That's a String"; //Type String
+        String texto = "That's a String"; 
         System.out.println(texto);
         
-        int number = 2600; //Type integral
+        int number = 2600; 
         System.out.println(number);
          
-        double decimal = 32.455; //Type big decimals
+        double decimal = 32.455; 
         System.out.println(decimal);
 
-        float smallDecimal = 3.14F; //Type small decimals, necessary the "F" ever.
+        float smallDecimal = 3.14F; 
         System.out.println(smallDecimal);
         
-        long hugenumber = 3423434354353L; //Type long number, necessary the "L" ever.
+        long hugenumber = 3423434354353L; 
         System.out.println(hugenumber);
 
-        final String FINISH = " Essa string foi definida para nunca ser mudado, com 'final'."; //In main, we write the var final with capsLock on.
+        final String FINISH = " Essa string foi definida para nunca ser mudado, com 'final'."; 
         System.out.println(FINISH);
 
 
