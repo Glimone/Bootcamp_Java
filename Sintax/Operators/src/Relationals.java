@@ -25,7 +25,16 @@ public class Relationals {
 
         System.out.println(n1 < n2); //With the ">", the result is true.
 
+        //In cases which we have objects or Strings, don't used the "==", but yes the method ".equals".
         
+        //Exemple 3
+
+        String name1 = "Gabriel Limone";
+        String name2 =  new String("Gabriel Limone");
+        System.out.println(name1.equals(name2)); //If you use just: name1 == name2, the result is false, because name2 its a object.
+
+        
+
 
 
         
