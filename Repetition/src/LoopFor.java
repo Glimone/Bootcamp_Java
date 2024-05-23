@@ -13,7 +13,6 @@ public class LoopFor {
         (CORPO de execução até a validação finalizar.)
        }
 
-
        */ 
 
 
@@ -23,15 +22,7 @@ public class LoopFor {
         System.out.println("Contando Carneirinhos " + carneirinhos);
        }
 
-       /*Em "int carneirinhos" definimos que o valor do carneirinho dentro do loop inicia com 1" (Valor inicial)
-       
-       Em "carneirinhos <= 20" definimos que o loop for deve ser feito enquanto for menor ou igual a 20 (Limite, condição)
-
-       Em "Carneirinhos +=" definimos de quantas em quantas vezes esse loop será feito (Pulo, inclemento)
-
-       Logo, com essa estrutura montada, definimos que o comando a ser executado (O que está dentro das chaves)seria a impressão dos carneirinhos, que inicia com 1, conta de 1 em 1 e tem o limite de 20.
-       
-       */
+      
        
     }
 }
