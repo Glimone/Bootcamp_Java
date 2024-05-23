@@ -23,11 +23,7 @@ public class Compost {
 
 
         }
-        else { //No geral, isso é uma estrutura composta
-            System.out.println("Caractere inviável, tente novamente.");
-        }
-
-    
+        else {}
     scanner.close();
         
 
