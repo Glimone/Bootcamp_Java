@@ -18,7 +18,7 @@ public class Simple {
         
         }
 
-        
+        scanner.close();
 
     }
     
