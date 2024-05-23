@@ -22,6 +22,14 @@ public class Compost {
             System.out.println("O valor de saque é maior do que seu limite, volte e digite novamente. ");
 
 
+            /*
+             * Para que o código fique mais limpo, você pode usar as condições ternárias, cujas possuem a seguinte estrutura:
+             * 
+             * TypeVar name = var1 > var2 ? Condition1 : Condition2; 
+             * 
+             * Lembrando que no lugar de ">" pode ter qualquer sinal condicional. Em geral, isso torna o código mais limpo.
+             */
+
         }
         else {}
     scanner.close();
